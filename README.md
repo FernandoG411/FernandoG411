@@ -104,26 +104,23 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FernandoG411/FernandoG411/output/snake.svg" alt="Snake animation" />
-
 ###
+
 <br clear="both">
 
 <div align="center">
+
+  
+  
+  
   <img height="150" src="https://i.pinimg.com/originals/fb/4d/be/fb4dbe3a8f97a5c52568a23dd97d15b8.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-</div>
+
+
+
 
 ###
 
